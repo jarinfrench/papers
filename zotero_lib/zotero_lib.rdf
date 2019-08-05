@@ -1,0 +1,2986 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311517311170">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0022-3115"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Frazier</foaf:surname>
+                        <foaf:givenname>William E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenname>Shenyang</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Overman</foaf:surname>
+                        <foaf:givenname>Nicole</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lavender</foaf:surname>
+                        <foaf:givenname>Curt</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joshi</foaf:surname>
+                        <foaf:givenname>Vineet V.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_120"/>
+        <dcterms:isReferencedBy rdf:resource="#item_121"/>
+        <dcterms:isReferencedBy rdf:resource="#item_122"/>
+        <link:link rdf:resource="#item_47"/>
+        <dc:subject>Grain growth</dc:subject>
+        <dc:subject>U-Mo alloys</dc:subject>
+        <dc:subject>Experimental</dc:subject>
+        <dc:subject>Zener pinning</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311517311170</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>254-258</bib:pages>
+        <dc:date>January 1, 2018</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:abstract>The alloy U-10 wt% Mo was annealed at temperatures ranging from 700 °C to 900 °C for periods lasting up to 24 h. Annealed microstructures were examined using Electron Backscattered Diffraction (EBSD) to obtain average grain sizes and grain size distributions. From the temporal evolution of the average grain size, the activation energy of grain growth was determined to be 172.4 ± 0.961 kJ/mol. Grain growth over the annealing period stagnated after a period of 1–4 h. This stagnation is apparently caused by the pinning effect of second-phase particles in the materials. Back-scattered electron imaging (BSE) was used to confirm that these particles do not appreciably coarsen or dissolve during annealing at the aforementioned temperatures.</dcterms:abstract>
+        <dc:title>Short communication on Kinetics of grain growth and particle pinning in U-10 wt.% Mo</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0022-3115">
+        <prism:volume>498</prism:volume>
+        <dc:title>Journal of Nuclear Materials</dc:title>
+        <dc:identifier>ISSN 0022-3115</dc:identifier>
+        <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.jnucmat.2017.10.041</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_120">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;During annealing, the grain size distribution becomes increasingly wide, and the tail of the distribution becomes longer - This effect is temperature dependent.&lt;/p&gt;
+&lt;p&gt;There is a strong temperature dependence of the grain size at which grain growth stagnates - indicates that Zener pinning is dependent on temperature.&lt;/p&gt;
+&lt;p&gt;In U-10Mo, grain growth stagnation occurs because two species of second-phase particles pin the boundary (these particles did not dissolve or coarsen during the annealing)&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_121">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Defined the processing parameters for achieving a desired microstructure and fuel performance for U-10Mo by examing grain growth behavior between 700 &lt;sup&gt;o&lt;/sup&gt;C and 900 &lt;sup&gt;o&lt;/sup&gt;C&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_122">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;There are two secondary phases that have been identified in U-10Mo: uranium carbide (UC), and a Mo-Si-U-C quaternary compound.&lt;/p&gt;
+&lt;p&gt;It is presumed that UMo will perform optimally under irradiation when its grains are large and equiaxed.&lt;/p&gt;
+&lt;p&gt;The calculated activation energies for grain growth are under the isotropic grain growth assumption.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 7-9, 21-25, 30, 32&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_47">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/47/Frazier et al. - 2018 - Short communication on Kinetics of grain growth an.pdf"/>
+        <dc:title>Frazier et al. - 2018 - Short communication on Kinetics of grain growth an.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311515300891">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>465</prism:volume>
+                <dc:title>Journal of Nuclear Materials</dc:title>
+                <dc:identifier>ISSN 0022-3115</dc:identifier>
+                <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jnucmat.2015.07.004</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clarke</foaf:surname>
+                        <foaf:givenname>A.J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clarke</foaf:surname>
+                        <foaf:givenname>K.D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCabe</foaf:surname>
+                        <foaf:givenname>R.J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Necker</foaf:surname>
+                        <foaf:givenname>C.T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Papin</foaf:surname>
+                        <foaf:givenname>P.A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Field</foaf:surname>
+                        <foaf:givenname>R.D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kelly</foaf:surname>
+                        <foaf:givenname>A.M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tucker</foaf:surname>
+                        <foaf:givenname>T.J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Forsyth</foaf:surname>
+                        <foaf:givenname>R.T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dickerson</foaf:surname>
+                        <foaf:givenname>P.O.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Foley</foaf:surname>
+                        <foaf:givenname>J.C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Swenson</foaf:surname>
+                        <foaf:givenname>H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aikin</foaf:surname>
+                        <foaf:givenname>R.M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dombrowski</foaf:surname>
+                        <foaf:givenname>D.E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_149"/>
+        <dcterms:isReferencedBy rdf:resource="#item_148"/>
+        <dcterms:isReferencedBy rdf:resource="#item_147"/>
+        <link:link rdf:resource="#item_44"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Electron microscopy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Fuels and fuel elements</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Processing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Segregation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>U-Mo alloys</dc:subject>
+        <dc:subject>Experimental</dc:subject>
+        <dc:subject>Homogenization</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311515300891</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>784-792</bib:pages>
+        <dc:date>October 1, 2015</dc:date>
+        <dc:description>Skimmed</dc:description>
+        <dcterms:abstract>Low-enriched uranium-10 wt.% molybdenum (LEU-10wt.%Mo) is of interest for the fabrication of monolithic fuels to replace highly-enriched uranium (HEU) dispersion fuels in high performance research and test reactors around the world. In this work, depleted uranium-10 wt.%Mo (DU-10wt.%Mo) is used to simulate the solidification and microstructural evolution of LEU-10wt.%Mo. Electron backscatter diffraction (EBSD) and complementary electron probe microanalysis (EPMA) reveal significant microsegregation present in the metastable γ-phase after solidification. Homogenization is performed at 800 and 1000 °C for times ranging from 1 to 32 h to explore the time–temperature combinations that will reduce the extent of microsegregation, as regions of higher and lower Mo content may influence local mechanical properties and provide preferred regions for γ-phase decomposition. We show for the first time that EBSD can be used to qualitatively assess microstructural evolution in DU-10wt.%Mo after homogenization treatments. Complementary EPMA is used to quantitatively confirm this finding. Homogenization at 1000 °C for 2–4 h may the regions that contain 8 wt.% Mo or lower, whereas homogenization at 1000 °C for longer than 8 h effectively saturates Mo chemical homogeneity, but results in substantial grain growth. The appropriate homogenization time will depend upon additional microstructural considerations, such as grain growth and intended subsequent processing. Higher carbon LEU-10wt.%Mo generally contains more inclusions within the grains and at grain boundaries after solidification. The effect of these inclusions on microstructural evolution (e.g. grain growth) during homogenization and as potential γ-phase decomposition nucleation sites is unclear, but likely requires additional study.</dcterms:abstract>
+        <dc:title>Microstructural evolution of a uranium-10 wt.% molybdenum alloy for nuclear reactor fuels</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_149">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solidification of depleted U-10Mo results in significant Mo microsegregation in the gamma phase&lt;/li&gt;
+&lt;li&gt;Homogenization at 1000 &lt;sup&gt;o&lt;/sup&gt;C for 2-4 hours effectively eliminates the regions with less than 8 wt% Mo .  If homogenization is performed at this temperature for longer than 8 hours, the chemical homogeneity is saturated&lt;/li&gt;
+&lt;/ul&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_148">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Identified the microstructural evolution that occurs during homogenization in depleted U-10Mo.&lt;/p&gt;
+&lt;p&gt;Insight into time-temperature combinations that reduce the compositional inhomogeneity in the gamma phase to establish a more optimal starting microstructure for subsequent processing.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_147">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;Cladding for UMo monolithic fuel plates is generally 6061 Al&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_44">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/44/Clarke et al. - 2015 - Microstructural evolution of a uranium-10 wt.% mol.pdf"/>
+        <dc:title>Clarke et al. - 2015 - Microstructural evolution of a uranium-10 wt.% mol.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311517309170">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>496</prism:volume>
+                <dc:title>Journal of Nuclear Materials</dc:title>
+                <dc:identifier>ISSN 0022-3115</dc:identifier>
+                <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jnucmat.2017.09.030</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jana</foaf:surname>
+                        <foaf:givenname>Saumyadeep</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Overman</foaf:surname>
+                        <foaf:givenname>Nicole</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Varga</foaf:surname>
+                        <foaf:givenname>Tamas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lavender</foaf:surname>
+                        <foaf:givenname>Curt</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joshi</foaf:surname>
+                        <foaf:givenname>Vineet V.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_22"/>
+        <dcterms:isReferencedBy rdf:resource="#item_25"/>
+        <dcterms:isReferencedBy rdf:resource="#item_26"/>
+        <link:link rdf:resource="#item_45"/>
+        <dc:subject>U-Mo alloys</dc:subject>
+        <dc:subject>Experimental</dc:subject>
+        <dc:subject>Phase transformation</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311517309170</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>215-226</bib:pages>
+        <dc:date>December 1, 2017</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:abstract>The effect of sub-eutectoid heat treatment on the phase transformation behavior in rolled U-10 wt.% Mo (U10Mo) foils was systematically investigated. The as-cast 5 mm thick foils were initially homogenized at 900 °C for 48 h and were hot rolled to 2 mm and later cold rolled down to 0.2 mm. Three starting microstructures were evaluated: (i) hot + cold-rolled to 0.2 mm (as-rolled condition), (ii) hot + cold-rolled to 0.2 mm + annealed at 700 °C for 1 h, and (iii) hot + cold-rolled to 0.2 mm + annealed at 1000 °C for 60 h. Annealing of as-rolled materials at 700 °C resulted in small grain size (15 ± 9 μm average grain size), while annealing at 1000 °C led to very large grains (156 ± 118 μm average grain size) in rolled U10Mo foils. Later the samples were subjected to sub-eutectoid heat-treatment temperatures of 550 °C, 500 °C, and 400 °C for different durations of time starting from 1 h up to 100 h. U10Mo rolled foils went through various degrees of decomposition when subjected to the sub-eutectoid heat-treatment step and formed a lamellar microstructure through a cellular reaction mostly along the previous γ-UMo grain boundaries. The least amount of cellular reaction was observed in the large-grain microstructure at all temperatures. Conversely, a substantial amount of cellular reaction was observed in both the as-rolled and the small-grain microstructure. After 100 h of heat treatment at 500 °C, the volume fraction of the lamellar phase was found to be 4%, 22%, and 82% in large-grain, as-rolled, and small-grain samples, respectively.</dcterms:abstract>
+        <dc:title>Phase transformation kinetics in rolled U-10 wt. % Mo foil: Effect of post-rolling heat treatment and prior γ-UMo grain size</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_22">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Phase transformation has a strong temperature dependence (significant transformation at 550 and 500 degrees C). &lt;/li&gt;
+&lt;li&gt;Large grains lead to less eutectoid transformation.&lt;/li&gt;
+&lt;li&gt;Cellular reaction occurs primarily along prior gamma-UMo boundaries, and occurs fastest at 500 degrees C. (The as-rolled sample had higher rates of cellular reaction at 550 degrees C).&lt;/li&gt;
+&lt;/ul&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_25">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Analysis of the effect of sub-eutectoid heat treatment on phase transformation behavior in rolled U10Mo foils.  Focus on the role that prior grain size has on phase transformation kinetics.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_26">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;They make note of abnormal grain growth in the as-rolled foil after 1000 degrees C annealing.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;background-color: #00ff00;&quot;&gt;What is cellular reaction rate? &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 3, 5, 28&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_45">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/45/Jana et al. - 2017 - Phase transformation kinetics in rolled U-10 wt. %.pdf"/>
+        <dc:title>Jana et al. - 2017 - Phase transformation kinetics in rolled U-10 wt. %.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s10853-015-9542-7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1573-4803"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hötzer</foaf:surname>
+                        <foaf:givenname>Johannes</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tschukin</foaf:surname>
+                        <foaf:givenname>Oleg</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Said</foaf:surname>
+                        <foaf:givenname>Marouen Ben</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berghoff</foaf:surname>
+                        <foaf:givenname>Marco</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jainta</foaf:surname>
+                        <foaf:givenname>Marcus</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barthelemy</foaf:surname>
+                        <foaf:givenname>Georges</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smorchkov</foaf:surname>
+                        <foaf:givenname>Nikolay</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schneider</foaf:surname>
+                        <foaf:givenname>Daniel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Selzer</foaf:surname>
+                        <foaf:givenname>Michael</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nestler</foaf:surname>
+                        <foaf:givenname>Britta</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_21"/>
+        <dcterms:isReferencedBy rdf:resource="#item_23"/>
+        <dcterms:isReferencedBy rdf:resource="#item_24"/>
+        <link:link rdf:resource="#item_41"/>
+        <dc:subject>Dihedral angles</dc:subject>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>Triple junction</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s10853-015-9542-7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1788-1797</bib:pages>
+        <dc:date>February 1, 2016</dc:date>
+        <dc:description>Skimmed, Printed</dc:description>
+        <dcterms:abstract>Over the last years, the phase-field method has been established to model capillarity-induced microstructural evolution in various material systems. Several phase-field models were introduced and different studies proved that the microstructure evolution is crucially affected by the triple junction (TJ’s) mobilities as well as the evolution of the dihedral angles. In order to understand basic mechanisms in multi-phase systems, we are interested in the time evolution of TJ’s, especially in the contact angles in these regions. Since the considered multi-phase systems consist of a high number of grains, it is not feasible to measure the angles at all TJ’s by hand. In this work, we present a method enabling the localization of TJ’s and the measurement of dihedral contact angles in the diffuse interface inherent in the phase-field model. Based on this contact angle measurement method, we show how to calibrate the phase-field model in order to satisfy Young’s law for different contact angles.</dcterms:abstract>
+        <dc:title>Calibration of a multi-phase field model with quantitative angle measurement</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1573-4803">
+        <prism:volume>51</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Journal of Materials Science</dc:title>
+        <dc:identifier>ISSN 1573-4803</dc:identifier>
+        <dcterms:alternative>Journal of Materials Science</dcterms:alternative>
+        <dc:identifier>DOI 10.1007/s10853-015-9542-7</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_21">
+        <rdf:value>&lt;p&gt;Conclusion&lt;/p&gt;
+&lt;p&gt;Stronger grain boundary energy anisotropy leads to a strong dependence on the third order mixing term.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_23">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Examine the influence of a third-order term in the free energy functional on the dihedral angles.  Additionally, provide a programmatic method for calculating the dihedral angles.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_24">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;It is unclear what particular phase field method is being used here - Finite difference?  Finite element?  In either case, it doesn't appear that such an algorithm would work in MOOSE due to mesh adaptivity.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 8, 13, 22-25.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_41">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/41/Hötzer et al. - 2016 - Calibration of a multi-phase field model with quan.pdf"/>
+        <dc:title>Hötzer et al. - 2016 - Calibration of a multi-phase field model with quan.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0927025618301113">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0927-0256"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perumal</foaf:surname>
+                        <foaf:givenname>Ramanathan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kubendran Amos</foaf:surname>
+                        <foaf:givenname>P.G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Selzer</foaf:surname>
+                        <foaf:givenname>Michael</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nestler</foaf:surname>
+                        <foaf:givenname>Britta</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_14"/>
+        <link:link rdf:resource="#item_71"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Size advantage</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Transient phenomena</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>Abnormal grain growth</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0927025618301113</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>227-237</bib:pages>
+        <dc:date>May 1, 2018</dc:date>
+        <dcterms:abstract>‘Abnormally’ large grains, whose sizes are greater than twice the critical radius (2Rc), are known to alter the isotropic grain growth phenomena. In the present work, phase-field simulations of 2-dimensional microstructures are extensively analysed to elucidate the deviations from the normal grain growth introduced by the presence of abnormal grains. Polycrystalline microstructures that are ’artificially’ made to resemble physical structures, by governing the distribution and the sizes of the abnormal grains, is employed to analyse the grain growth in the presence of large grains. This study unravels that the abnormal grains induce a period of transition during which its grain size distribution is shifted and confined within 2Rc, indicating a complete disappearance of the abnormality in the microstructure. Furthermore, it is identified that this transition period establishes a bimodal distribution, which subsequently evolves into a unimodal time-invariant distribution. This behaviour noticeably reveals the misconception that the disappearance of the abnormality signifies the onset of normal grain growth. Moreover, despite the apparent disappearance of the abnormal grains, a continued increase in the volume-fraction of these ‘pre-existing’ abnormal grains is recognized, and in the steady-state condition, it is observed that the microstructure predominantly consists of these pre-existing abnormal grains. Influence of the factors like initial volume-fraction of the abnormal grains Fo and degree of abnormality U‾max on the duration of the transient period is quantified by investigating close to hundred microstructures with unique Fo and U‾max.</dcterms:abstract>
+        <dc:title>Phase-field study of the transient phenomena induced by ‘abnormally’ large grains during 2-dimensional isotropic grain growth</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0927-0256">
+        <prism:volume>147</prism:volume>
+        <dc:title>Computational Materials Science</dc:title>
+        <dc:identifier>ISSN 0927-0256</dc:identifier>
+        <dcterms:alternative>Computational Materials Science</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.commatsci.2018.02.028</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_14">
+       <rdf:value>&lt;p&gt;What is the critical radius?&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/71/Perumal et al. - 2018 - Phase-field study of the transient phenomena induc.pdf"/>
+        <dc:title>Perumal et al. - 2018 - Phase-field study of the transient phenomena induc.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311515303342">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>471</prism:volume>
+                <dc:title>Journal of Nuclear Materials</dc:title>
+                <dc:identifier>ISSN 0022-3115</dc:identifier>
+                <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jnucmat.2015.11.026</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenname>Zhijie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joshi</foaf:surname>
+                        <foaf:givenname>Vineet</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenname>Shenyang</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paxton</foaf:surname>
+                        <foaf:givenname>Dean</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lavender</foaf:surname>
+                        <foaf:givenname>Curt</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burkes</foaf:surname>
+                        <foaf:givenname>Douglas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_57"/>
+        <dc:subject>Uranium alloys</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>BSE-SEM</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Diffusion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Homogenization modeling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Microstructure characterization</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Molybdenum</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311515303342</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>154-164</bib:pages>
+        <dc:date>April 1, 2016</dc:date>
+        <dcterms:abstract>Low-enriched U-22at% Mo (U–10Mo) alloy has been considered as an alternative material to replace the highly enriched fuels in research reactors. For the U–10Mo to work effectively and replace the existing fuel material, a thorough understanding of the microstructure development from as-cast to the final formed structure is required. The as-cast microstructure typically resembles an inhomogeneous microstructure with regions containing molybdenum-rich and -lean regions, which may affect the processing and possibly the in-reactor performance. This as-cast structure must be homogenized by thermal treatment to produce a uniform Mo distribution. The development of a modeling capability will improve the understanding of the effect of initial microstructures on the Mo homogenization kinetics. In the current work, we investigated the effect of as-cast microstructure on the homogenization kinetics. The kinetics of the homogenization was modeled based on a rigorous algorithm that relates the line scan data of Mo concentration to the gray scale in energy dispersive spectroscopy images, which was used to generate a reconstructed Mo concentration map. The map was then used as realistic microstructure input for physics-based homogenization models, where the entire homogenization kinetics can be simulated and validated against the available experiment data at different homogenization times and temperatures.</dcterms:abstract>
+        <dc:title>Modeling the homogenization kinetics of as-cast U-10wt% Mo alloys</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_57">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/57/Xu et al. - 2016 - Modeling the homogenization kinetics of as-cast U-.pdf"/>
+        <dc:title>Xu et al. - 2016 - Modeling the homogenization kinetics of as-cast U-.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311516300733">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>474</prism:volume>
+                <dc:title>Journal of Nuclear Materials</dc:title>
+                <dc:identifier>ISSN 0022-3115</dc:identifier>
+                <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jnucmat.2016.02.035</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steiner</foaf:surname>
+                        <foaf:givenname>M.A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garlea</foaf:surname>
+                        <foaf:givenname>E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Agnew</foaf:surname>
+                        <foaf:givenname>S.R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_48"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Brody-Fleming model</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Solute segregation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>U-Mo alloys</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311516300733</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>105-112</bib:pages>
+        <dc:date>June 1, 2016</dc:date>
+        <dcterms:abstract>Using first principles calculations, it is demonstrated that solute segregation during U-Mo solidification can be modeled using the classic Brody-Fleming limited diffusion framework. The necessary supporting equations specific to the U-Mo alloy, along with careful verification of the assumptions underpinning the Brody-Fleming model are developed, allowing for concentration profile predictions as a function of alloy composition and cooling rate. The resulting model is compared to experimental solute concentration profiles, showing excellent agreement. Combined with complementary modeling of dendritic feature sizes, the solute segregation model can be used to predict the complete microstructural state of individual U-Mo volume elements based upon cooling rates, informing ideal processing routes.</dcterms:abstract>
+        <dc:title>Modeling solute segregation during the solidification of γ-phase U-Mo alloys</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_48">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/48/Steiner et al. - 2016 - Modeling solute segregation during the solidificat.pdf"/>
+        <dc:title>Steiner et al. - 2016 - Modeling solute segregation during the solidificat.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1359645419303246">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1359-6454"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rheinheimer</foaf:surname>
+                        <foaf:givenname>Wolfgang</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schoof</foaf:surname>
+                        <foaf:givenname>Ephraim</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Selzer</foaf:surname>
+                        <foaf:givenname>Michael</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nestler</foaf:surname>
+                        <foaf:givenname>Britta</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoffmann</foaf:surname>
+                        <foaf:givenname>Michael J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_58"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Bimodal microstructures</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Grain growth transition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Strontium titanate</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Grain size distribution</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1359645419303246</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>105-115</bib:pages>
+        <dc:date>August 1, 2019</dc:date>
+        <dcterms:abstract>Strontium titanate is well-known for its non-Arrhenius grain growth, where grain growth coefficients decrease by orders of magnitude between 1350 °C and 1425 °C. This transition is assumed to be caused by the existence and coexistence of two grain boundary types and results in the formation of bimodal microstructures. So far, no quantified data on the transition behavior was available. The present study uses a comparison of experimental microstructures for various heating times and temperatures with simulated microstructures from phase-field simulations considering various fractions of fast-growing grains. The microstructures are compared by means of their grain size distributions. It is found that the fraction of fast-growing grains follows an anti-Arrhenius behavior. Evaluating the present findings with respective literature data, the grain growth transition could be related to a space charge transition where the fast and slow grain boundaries are associated with strong and weak space charge and segregation. Overall, the present study sheds light on general grain growth transitions observed in several perovskite ceramics.</dcterms:abstract>
+        <dc:title>Non-Arrhenius grain growth in strontium titanate: Quantification of bimodal grain growth</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1359-6454">
+        <prism:volume>174</prism:volume>
+        <dc:title>Acta Materialia</dc:title>
+        <dc:identifier>ISSN 1359-6454</dc:identifier>
+        <dcterms:alternative>Acta Materialia</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.actamat.2019.05.040</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_58">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/58/Rheinheimer et al. - 2019 - Non-Arrhenius grain growth in strontium titanate .pdf"/>
+        <dc:title>Rheinheimer et al. - 2019 - Non-Arrhenius grain growth in strontium titanate .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0927025617303579">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>138</prism:volume>
+                <dc:title>Computational Materials Science</dc:title>
+                <dc:identifier>ISSN 0927-0256</dc:identifier>
+                <dcterms:alternative>Computational Materials Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.commatsci.2017.07.006</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dargahi Noubary</foaf:surname>
+                        <foaf:givenname>Kaveh</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kellner</foaf:surname>
+                        <foaf:givenname>Michael</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steinmetz</foaf:surname>
+                        <foaf:givenname>Philipp</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hötzer</foaf:surname>
+                        <foaf:givenname>Johannes</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nestler</foaf:surname>
+                        <foaf:givenname>Britta</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_72"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Angle measuring technique</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Directional solidification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Ternary eutectics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tilted growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0927025617303579</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>403-411</bib:pages>
+        <dc:date>October 1, 2017</dc:date>
+        <dcterms:abstract>In the directional solidification of molten alloys, the configuration of growing phases plays a vital role in the properties of the resulting materials. During directional eutectic solidification, the growth direction and the velocity can be controlled by an imprinted temperature gradient. For this kind of process, different instabilities can occur. One observed instability is tilted growth of the solid phases against the direction of the imprinted temperature gradient. In ternary eutectics this phenomenon can occur in systems with isotropic phases. To investigate the effects of the different process and material parameters, simulation studies with a thermodynamically consistent phase-field model based on the grand potential approach, are conducted. An idealized system with different isotropic interfacial energies, diffusion coefficients, lamellar spacings, solidification velocities and slopes of the imposed temperature gradient is systematically studied. The effects on tilting are analyzed and discussed. To quantitatively determine the tilt angle automatized, an unsupervised measurement method is developed. Based on the results of the measurements, a fitting function is derived to predict the tilt angles.</dcterms:abstract>
+        <dc:title>Phase-field study on the effects of process and material parameters on the tilt angle during directional solidification of ternary eutectics</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_72">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/72/Dargahi Noubary et al. - 2017 - Phase-field study on the effects of process and ma.pdf"/>
+        <dc:title>Dargahi Noubary et al. - 2017 - Phase-field study on the effects of process and ma.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.aps.org/doi/10.1103/PhysRevB.78.024113">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>78</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Physical Review B</dc:title>
+                <dcterms:alternative>Phys. Rev. B</dcterms:alternative>
+                <dc:identifier>DOI 10.1103/PhysRevB.78.024113</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moelans</foaf:surname>
+                        <foaf:givenname>N.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blanpain</foaf:surname>
+                        <foaf:givenname>B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wollants</foaf:surname>
+                        <foaf:givenname>P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_28"/>
+        <dcterms:isReferencedBy rdf:resource="#item_29"/>
+        <dcterms:isReferencedBy rdf:resource="#item_30"/>
+        <link:link rdf:resource="#item_46"/>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>Anisotropy</dc:subject>
+        <dc:subject>Theoretical</dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.aps.org/doi/10.1103/PhysRevB.78.024113</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>024113</bib:pages>
+        <dc:date>July 16, 2008</dc:date>
+        <dc:description>Skimmed, Printed</dc:description>
+        <dc:title>Quantitative analysis of grain boundary properties in a generalized phase field model for grain growth in anisotropic systems</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_28">
+        <rdf:value>&lt;p&gt;Conclusion&lt;/p&gt;
+&lt;p&gt;&quot;A generalized phase field model has been formulated to perform simulations for grain growth in anisotropic systems with a high controllability of the numerical accuracy.&quot;&lt;/p&gt;
+&lt;p&gt;I.e. specific model parameters can be fine tuned to recreate specific boundary properties.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_29">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A generalized phase field model for grain growth in anisotropic systems.&lt;/li&gt;
+&lt;li&gt;An iterative algorithm to calculate appropriate sets of misorientation-dependent model parameters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_30">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;In attempting to recreate the equations presented here, I have been unable to recreate eq 8a (missing a minus sign).&lt;/p&gt;
+&lt;p&gt;Additionally, at the end of section C, two equations are presented identifying the location of the saddle points for combinations of two and three phase field variables.  This does not appear to match the relations presented in eq. 14.&lt;/p&gt;
+&lt;p&gt;Eqs. 40 have a singularity in the bulk of a grain - because eta_j = 0 for j != i, the denominator in these equations is extremely small (theoretically zero).  This causes numerical issues that are not easily resolved (my current implementation makes these parameters dependent on the number of order parameters in the system).  I have also noticed that these equations do not appear to have any dependence on the misorientation (theta).&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 18, 19, 25, 34, 36, 40, 64&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/46/Moelans et al. - 2008 - Quantitative analysis of grain boundary properties.pdf"/>
+        <dc:title>Moelans et al. - 2008 - Quantitative analysis of grain boundary properties.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1359645496002005">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Acta Materialia</dc:title>
+                <dc:identifier>ISSN 1359-6454</dc:identifier>
+                <dcterms:alternative>Acta Materialia</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/S1359-6454(96)00200-5</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fan</foaf:surname>
+                        <foaf:givenname>D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenname>L.-Q.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_33"/>
+        <dcterms:isReferencedBy rdf:resource="#item_35"/>
+        <dcterms:isReferencedBy rdf:resource="#item_34"/>
+        <link:link rdf:resource="#item_42"/>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>Theoretical</dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1359645496002005</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>611-622</bib:pages>
+        <dc:date>February 1, 1997</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:abstract>The kinetics of grain growth in two-dimensions (2-D) were investigated by computer simulations based on a continuum diffuse-interface field model. In this model, a polycrystalline microstructure is described by many orientation field variables whose temporal and spatial evolutions can be obtained by solving the time-dependent Ginzburg-Landau (TDGL) equations. It is found that the time dependence of average grain radius R¯ follows the kinetic law: R¯mt −R¯m0 = kt with m = 2.0 in the scaling regime, in agreement with most of the previous simulation and theoretical results obtained using sharp-interface models. It is shown that the Louat's function provides a reasonable fit to the grain size distribution obtained from the simulation. In contrast to the general belief that 4- and 5-sided grains transform to 3-sided before their disappearance in 2-D grain growth, we found ample evidence that 4-sided and 5-sided grains may directly evolve to a region of disordered material, whose size is on the order of the grain boundary thickness and whose boundaries with neighbours are not well defined, and then disappear. The dependencies of grain growth kinetics on the computational cell size, the discretizing grid size, grain boundary width, as well as the number of field variables were critically examined.</dcterms:abstract>
+        <dc:title>Computer simulation of grain growth using a continuum field model</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_33">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;The phase field formulation is a powerful alternative to sharp-interface models.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;grain growth exponent is 2, independent of the number of order parameters&lt;/li&gt;
+&lt;li&gt;kinetic coefficient does depend on the number of order parameters&lt;/li&gt;
+&lt;li&gt;4- and 5-sided grains may transform to disordered regions, then vanish, rather than changing into 3-sided grains (in 2D grain growth).&lt;/li&gt;
+&lt;li&gt;Phase field models scale well - small grains can be scaled up to larger grains with no impact on the grain size distribution&lt;/li&gt;
+&lt;/ul&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_35">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;An investigation of the kinetics of grain growth in 2D using phase-field methods (possibly the first attempt at using phase field to model grain growth).&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_34">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;This paper gives a very good overview of the basics of phase field simulation.  Grain growth is assumed to be isotropic here, so be careful with generalization to all microstructures.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 4, 6, 7, 15, 16&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_42">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/42/Fan and Chen - 1997 - Computer simulation of grain growth using a contin.pdf"/>
+        <dc:title>Fan and Chen - 1997 - Computer simulation of grain growth using a contin.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.aps.org/doi/10.1103/PhysRevB.61.14275">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>61</prism:volume>
+                <prism:number>21</prism:number>
+                <dc:title>Physical Review B</dc:title>
+                <dcterms:alternative>Phys. Rev. B</dcterms:alternative>
+                <dc:identifier>DOI 10.1103/PhysRevB.61.14275</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kazaryan</foaf:surname>
+                        <foaf:givenname>A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenname>Y.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dregia</foaf:surname>
+                        <foaf:givenname>S. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Patton</foaf:surname>
+                        <foaf:givenname>Bruce R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_37"/>
+        <dcterms:isReferencedBy rdf:resource="#item_38"/>
+        <dcterms:isReferencedBy rdf:resource="#item_39"/>
+        <link:link rdf:resource="#item_43"/>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>Anisotropy</dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.aps.org/doi/10.1103/PhysRevB.61.14275</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>14275-14278</bib:pages>
+        <dc:date>June 1, 2000</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dc:title>Generalized phase-field model for computer simulation of grain growth in anisotropic systems</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_37">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;&quot;Small anisotropy in grain boundary energy can produce strongly anisotropic grain shapes.  In contrast, the mobility anisotropy needs to be significantly stronger to produce similar morphologies.&quot; - specific to a single island grain in a matrix.&lt;/p&gt;
+&lt;p&gt;Mobility anisotropy causes grain growth to not be self-similar, even though the average grain area grows linearly with time.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_38">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Extend the phase field approach to consider misorientation and inclination dependence of grain boundary energy and mobility.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_39">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;In a statement on page 2, they claim that &quot;Qualitatively, in pure materials, the higher the defect concentration at a grain boundary the higher its energy as well as its mobility.&quot;  I was under the impression that defects at a grain boundary &lt;em&gt;decrease&lt;/em&gt; the mobility.  Is this only for substitutional defects?  Or is their statement incorrect?&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 12, 14, 15, 17, 20-23, 25&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/43/Kazaryan et al. - 2000 - Generalized phase-field model for computer simulat.pdf"/>
+        <dc:title>Kazaryan et al. - 2000 - Generalized phase-field model for computer simulat.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311518304069">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>509</prism:volume>
+                <dc:title>Journal of Nuclear Materials</dc:title>
+                <dc:identifier>ISSN 0022-3115</dc:identifier>
+                <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jnucmat.2018.06.007</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jadernas</foaf:surname>
+                        <foaf:givenname>Daniel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gan</foaf:surname>
+                        <foaf:givenname>Jian</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keiser</foaf:surname>
+                        <foaf:givenname>Dennis</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Madden</foaf:surname>
+                        <foaf:givenname>James</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bachhav</foaf:surname>
+                        <foaf:givenname>Mukesh</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jue</foaf:surname>
+                        <foaf:givenname>Jan-Fong</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robinson</foaf:surname>
+                        <foaf:givenname>Adam</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_56"/>
+        <dc:subject>U-Mo alloys</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>EBSD</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Neutron irradiation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Nuclear fuel</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Polygonization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>SEM</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Subgrain formation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311518304069</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-8</bib:pages>
+        <dc:date>October 1, 2018</dc:date>
+        <dcterms:abstract>Electron Backscattered Diffraction (EBSD) is an effective technique for revealing many details about the microstructure of materials, e.g. crystallographic orientation, grain size, grain boundary properties, texture, intragranular misorientation, and subgrain formation. Since these details are of interest for improving the irradiation performance understanding of any irradiated nuclear fuel (e.g. swelling behavior), this technique has been applied successfully on U-7 wt% Mo before and after irradiation. This fuel is a high-density, low-enriched uranium fuel currently being developed for application in research and test reactors. Based on the results of this characterization, it was found that when as-fabricated U-7 wt% Mo is irradiated to around 5.3 × 1021 fissions/cm3 the original large grains (diameter ∼4 μm) are subdivided into much smaller grains (diameter ∼0.3 μm) and most of these subdivided grain boundaries are low angle boundaries. The EBSD analysis suggests that the grain subdivision in the irradiated U-7 wt% Mo was driven by polygonization, not recrystallization as defined by classic metallurgy as a result of heavy cold work followed by heat treatment.</dcterms:abstract>
+        <dc:title>Microstructural characterization of as-fabricated and irradiated U-Mo fuel using SEM/EBSD</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/56/Jadernas et al. - 2018 - Microstructural characterization of as-fabricated .pdf"/>
+        <dc:title>Jadernas et al. - 2018 - Microstructural characterization of as-fabricated .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311517305573">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>492</prism:volume>
+                <dc:title>Journal of Nuclear Materials</dc:title>
+                <dc:identifier>ISSN 0022-3115</dc:identifier>
+                <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jnucmat.2017.05.035</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gan</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenname>B.D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keiser</foaf:surname>
+                        <foaf:givenname>D.D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jue</foaf:surname>
+                        <foaf:givenname>J.F.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Madden</foaf:surname>
+                        <foaf:givenname>J.W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robinson</foaf:surname>
+                        <foaf:givenname>A.B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ozaltun</foaf:surname>
+                        <foaf:givenname>H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moore</foaf:surname>
+                        <foaf:givenname>G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meyer</foaf:surname>
+                        <foaf:givenname>M.K.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_55"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311517305573</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>195-203</bib:pages>
+        <dc:date>August 15, 2017</dc:date>
+        <dcterms:abstract>Monolithic U-10Mo alloy fuel plates with Al-6061 cladding are being developed for use in research and test reactors as low enrichment fuel (&lt;20% U-235 enrichment) as a result of its high uranium loading capacity compared to that of U-7Mo dispersion fuel. These fuel plates contain a Zr diffusion barrier between the U-10Mo fuel and Al-6061 cladding that suppresses the interaction between the U-Mo fuel foil and Al alloy cladding that is known to be problematic under irradiation. Different methods have been employed to fabricate monolithic fuel plates, including hot-rolling with no cold-rolling. L1P09T is a hot-rolled fuel plate irradiated to high fission density in the RERTR-9B experiment. This paper discusses the TEM characterization results for this U-10Mo/Zr/Al6061 monolithic fuel plate (∼59% U-235 enrichment) irradiated in Advanced Test Reactor at Idaho National Laboratory with an unprecedented high local fission density of 9.8E+21 fissions/cm3. The calculated fuel foil centerline temperature at the beginning of life and the end of life is 141 and 194 °C, respectively. TEM lamellas were prepared using focus ion beam lift-out technique. The estimated U-Mo fuel swelling, based on the fuel foil thickness change from SEM, is approximately 76%. Large bubbles (&gt;1 μm) are distributed evenly in U-Mo and interlink of these bubbles is evident. The average size of subdivided grains at this fission density appears similar to that at 5.2E+21 fissions/cm3. The measured average Mo and Zr content in the fuel matrix is ∼30 at% and ∼7 at%, respectively, in general agreement with the calculated Mo and Zr from fission density.</dcterms:abstract>
+        <dc:title>Irradiated microstructure of U-10Mo monolithic fuel plate at very high fission density</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_55">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/55/Gan et al. - 2017 - Irradiated microstructure of U-10Mo monolithic fue.pdf"/>
+        <dc:title>Gan et al. - 2017 - Irradiated microstructure of U-10Mo monolithic fue.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311518301454">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>507</prism:volume>
+                <dc:title>Journal of Nuclear Materials</dc:title>
+                <dc:identifier>ISSN 0022-3115</dc:identifier>
+                <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jnucmat.2018.05.007</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beeler</foaf:surname>
+                        <foaf:givenname>Benjamin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenname>Yongfeng</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenname>Yipeng</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_143"/>
+        <dcterms:isReferencedBy rdf:resource="#item_142"/>
+        <link:link rdf:resource="#item_53"/>
+        <dc:subject>U-Mo alloys</dc:subject>
+        <dc:subject>Molecular dynamics</dc:subject>
+        <dc:subject>Grain boundary energy</dc:subject>
+        <dc:subject>Surface energy</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311518301454</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>248-257</bib:pages>
+        <dc:date>August 15, 2018</dc:date>
+        <dc:description>Skimmed</dc:description>
+        <dcterms:abstract>A monolithic fuel design based on a U-Mo alloy has been selected as the fuel type for conversion of the United States High-Performance Research Reactors (HPRRs). A 2015 post-irradiation examination (PIE) report showed accelerated swelling in U-10Mo fuels at fission densities much lower than previously observed. This PIE report showed a large amount of compositional banding, or regions of low Mo content adjacent to regions of high Mo content, with low Mo content typically along grain boundaries. Lower Mo content can lead to phase decomposition from the gamma U-Mo body-centered cubic phase to the alpha U phase as well as an earlier onset of recrystallization. Thus, the phenomenon of Mo depletion at grain boundaries is an important factor in the accelerated swelling behavior of U-Mo fuel. However, the physical origin of Mo depletion at grain boundaries is still unclear. In this work, molecular dynamics simulations have been performed to calculate the grain boundary and surface energies of body-centered cubic (bcc) U, bcc Mo and alloys of U-Mo from 600 K to 1200 K. It is observed that the lower grain boundary energy of bcc U, compared to bcc Mo, provides the driving force for Mo depletion at grain boundaries. This driving force diminishes with increasing temperature, but is not eliminated. This information can be utilized as inputs to higher length scale modeling methodologies and provide specification guidance to fabricators.</dcterms:abstract>
+        <dc:title>An atomistic study of grain boundaries and surfaces in γU-Mo</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_143">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bcc U and bcc Mo display similar grain boundary energy landscapes for the &amp;lt;100&amp;gt; tilt axis&lt;/li&gt;
+&lt;li&gt;{110} surface energy is the lowest for both systems&lt;/li&gt;
+&lt;li&gt;bcc Mo GB and surface energies are relatively temperature independent&lt;/li&gt;
+&lt;li&gt;bcc U GB and surface energies show significant increase with increasing T&lt;/li&gt;
+&lt;li&gt;Mo interfacial energies are higher than U - the driving force behind Mo depletion at GBs.  This force decrease with increasing temperature, meaning that with increasing temperature, there is less Mo depletion at the GB.&lt;/li&gt;
+&lt;/ul&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_142">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Molecular dynamics simulations have been performed to determine the driving force for Mo depletion at grain boundaries in UMo.&lt;/p&gt;
+&lt;p&gt;High-temperature grain boundary energy and surface energy calculations for bcc U, UMo, and Mo systems.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/53/Beeler et al. - 2018 - An atomistic study of grain boundaries and surface.pdf"/>
+        <dc:title>Beeler et al. - 2018 - An atomistic study of grain boundaries and surface.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311516301490">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>476</prism:volume>
+                <dc:title>Journal of Nuclear Materials</dc:title>
+                <dc:identifier>ISSN 0022-3115</dc:identifier>
+                <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jnucmat.2016.04.035</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leenaers</foaf:surname>
+                        <foaf:givenname>A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Renterghem</foaf:surname>
+                        <foaf:givenname>W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van den Berghe</foaf:surname>
+                        <foaf:givenname>S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_54"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311516301490</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>218-230</bib:pages>
+        <dc:date>August 1, 2016</dc:date>
+        <dcterms:abstract>The evolution of the high burn-up structure (HBS) in U(Mo) fuel irradiated up to a burn-up of ∼70% 235U or ∼5 × 1021 f/cm3 or ∼120 GWd/tHM is described and compared to the observation made on LWR fuel. Scanning and transmission electron microscopy was performed on several samples having different burn-ups in order to get a better understanding of the mechanisms leading to the high burn-up structure formation. Even though there are some substantial differences between the irradiation of ceramic and U(Mo) alloy fuels (crystal structure, enrichment, irradiation temperature …), it was found that in both fuels recrystallization initiates at the same threshold and progresses in a similar way with increasing fission density. In case of U(Mo), recrystallization leads to accelerated swelling of the fuel which could result in instability of the fuel plate.</dcterms:abstract>
+        <dc:title>High burn-up structure of U(Mo) dispersion fuel</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/54/Leenaers et al. - 2016 - High burn-up structure of U(Mo) dispersion fuel.pdf"/>
+        <dc:title>Leenaers et al. - 2016 - High burn-up structure of U(Mo) dispersion fuel.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0927025611004915">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>53</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Computational Materials Science</dc:title>
+                <dc:identifier>ISSN 0927-0256</dc:identifier>
+                <dcterms:alternative>Computational Materials Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.commatsci.2011.08.030</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hirouchi</foaf:surname>
+                        <foaf:givenname>Tomoyuki</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsuru</foaf:surname>
+                        <foaf:givenname>Tomohito</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shibutani</foaf:surname>
+                        <foaf:givenname>Yoji</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_70"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain boundary</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Higher-order term</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Inclination dependence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Misorientation dependence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>Multi-phase field model</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0927025611004915</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>474-482</bib:pages>
+        <dc:date>February 1, 2012</dc:date>
+        <dcterms:abstract>Multi-phase-field (MPF) model with a higher-order term representing energetic penalty for multiple junctions was proposed to predict the grain growth accompanying the inclination dependence of grain boundary (GB) energy and mobility. The inclination effect was introduced on the basis of GB energy obtained from molecular dynamics (MD) simulations. The preliminary grain growth simulation of an isolated grain surrounded by Σ3GB certified that the analytical equilibrium shape was well reproduced. The augmented higher-order term added to conventional MPF model could improve convergence and stability of numerical calculations around triple junction (TJ) region even if there exists the large GB energy gap at the TJ. Moreover, the present MPF model can realize well the Young’s relation with no GB inclination effect and further extend to the case with that effect. For the polycrystalline grain growth simulations with the GB energy distribution according to the misorientation angle of Al 〈110〉 tilt GB, Σ3GB inclination lead the weak anisotropy characterized by Σ3{111} twin boundary. Besides, the inclination dependence can effectively drive the GBs with low GB energy like the low-angle GB during grain growth.</dcterms:abstract>
+        <dc:title>Grain growth prediction with inclination dependence of 〈110〉 tilt grain boundary using multi-phase-field model with penalty for multiple junctions</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/70/Hirouchi et al. - 2012 - Grain growth prediction with inclination dependenc.pdf"/>
+        <dc:title>Hirouchi et al. - 2012 - Grain growth prediction with inclination dependenc.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S092702561830363X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>152</prism:volume>
+                <dc:title>Computational Materials Science</dc:title>
+                <dc:identifier>ISSN 0927-0256</dc:identifier>
+                <dcterms:alternative>Computational Materials Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.commatsci.2018.05.046</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miyoshi</foaf:surname>
+                        <foaf:givenname>Eisuke</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Takaki</foaf:surname>
+                        <foaf:givenname>Tomohiro</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shibuta</foaf:surname>
+                        <foaf:givenname>Yasushi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ohno</foaf:surname>
+                        <foaf:givenname>Munekazu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_68"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Microstructural evolution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Molecular dynamics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S092702561830363X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>118-124</bib:pages>
+        <dc:date>September 1, 2018</dc:date>
+        <dcterms:abstract>To achieve a highly accurate and efficient prediction of polycrystalline grain growth, we propose a method to bridge atomistic and continuum-based simulations by converting molecular dynamics-generated atomic configurations into interfacial profiles of the phase-field model. This method enables us to perform phase-field grain growth simulations in succession to molecular dynamics nucleation simulation. Using the present method, molecular dynamics and phase-field grain growth simulations from the same initial structure are carried out and directly compared. The results of each simulation exhibit a similar tendency in terms of grain morphology and grain growth kinetics, but only after an initial short duration.</dcterms:abstract>
+        <dc:title>Bridging molecular dynamics and phase-field methods for grain growth prediction</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_68">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/68/Miyoshi et al. - 2018 - Bridging molecular dynamics and phase-field method.pdf"/>
+        <dc:title>Miyoshi et al. - 2018 - Bridging molecular dynamics and phase-field method.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0927025616305237">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>127</prism:volume>
+                <dc:title>Computational Materials Science</dc:title>
+                <dc:identifier>ISSN 0927-0256</dc:identifier>
+                <dcterms:alternative>Computational Materials Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.commatsci.2016.10.027</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenname>Kunok</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenname>Long-Qing</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krill</foaf:surname>
+                        <foaf:givenname>Carl E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moelans</foaf:surname>
+                        <foaf:givenname>Nele</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_146"/>
+        <dcterms:isReferencedBy rdf:resource="#item_145"/>
+        <dcterms:isReferencedBy rdf:resource="#item_144"/>
+        <link:link rdf:resource="#item_69"/>
+        <dc:subject>Anisotropy</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>3-D grain growth</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dihedral angle distribution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Grain size distribution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>Grain boundary energy</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0927025616305237</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>67-77</bib:pages>
+        <dc:date>February 1, 2017</dc:date>
+        <dc:description>Skimmed</dc:description>
+        <dcterms:abstract>Large-scale phase-field simulations were performed of the evolution of grain structures with nonuniform grain boundary energy. A novel approach is proposed to determine the average grain boundary dihedral angles between the grain faces along triple and quadruple line junctions from 3-D voxel-based microstructures. We examine the effect of grain boundary energy nonuniformity on the distributions of the grain size, number of faces per grain, and dihedral angles between grain faces. We study the effect of the initial grain size distribution on the evolution toward steady state for both nonuniform and uniform boundary energy systems. The steady-state grain size and number of faces distributions remain unimodal under all conditions investigated, whereas the dihedral angle distribution is found to become multi-modal when the ratio R=σH/σL between high and low grain boundary energies lies in the range of 1.39–1.81. In addition, when R≈2 a topological transition is observed from a structure with grain faces meeting at triple lines (which themselves terminate in quadruple points) toward one in which the grain faces meet primarily at quadruple line junctions (ending at compact regions of triple junctions or very short triple lines).</dcterms:abstract>
+        <dc:title>Effect of strong nonuniformity in grain boundary energy on 3-D grain growth behavior: A phase-field simulation study</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_146">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;When anisotropy ratio is 1, the steady-state grain size distribution is broader and more symmetric than the Hillert distribution (regardless of initial condition)&lt;/p&gt;
+&lt;p&gt;For anisotropy ratio &amp;gt; 1, the steady-state grain size distribution is broader than in the case of anisotropy ratio = 1.&lt;/p&gt;
+&lt;p&gt;The distribution of the number of grain faces is also broader than for grain growth with uniform boundary energy&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_145">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Examine the influence of grain boundary energy anisotropy on microstructural evolution in 3D, and on the steady-state microstructural characteristics (grain size distribution, number of faces, dihedral angles between grain boundaries).&lt;/p&gt;
+&lt;p&gt;A new method is developed to determine the average dihedral angle between grain boundary planes&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_144">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 15-16, 19-21, 23&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_69">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/69/Chang et al. - 2017 - Effect of strong nonuniformity in grain boundary e.pdf"/>
+        <dc:title>Chang et al. - 2017 - Effect of strong nonuniformity in grain boundary e.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0167278910002642">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0167-2789"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenname>Wei</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spatschek</foaf:surname>
+                        <foaf:givenname>Robert</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steinbach</foaf:surname>
+                        <foaf:givenname>Ingo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_67"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Free energy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Heterogeneous nucleation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Static equilibrium</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Young’s law</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>Multi-phase field model</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0167278910002642</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>382-388</bib:pages>
+        <dc:date>February 15, 2011</dc:date>
+        <dcterms:abstract>We investigate the properties of the multi-order parameter phase field model of Steinbach and Pezzolla [I. Steinbach, F. Pezzolla, A generalized field method for multi-phase transformations using interface fields, Physica D 134 (1999) 385–393] with respect to the behavior in triple and higher order junctions. From the structure of this model, it was speculated that “dynamical” solutions may exist in the triple junction, which could lead to a violation of Young’s law. Here we confirm analytically recent numerical simulations showing that such dynamical states do not exist, and that an equilibrium solution therefore does indeed correspond to a minimum of the free energy; this implies that Young’s law must be satisfied in the framework of the model. We show that Young’s law is a consequence of the interface kinetic equilibrium and not due to a mechanical force balance, in agreement with earlier predictions [C. Caroli, C. Misbah, On static and dynamical Young’s condition at a trijunction, J. Phys. I France 7 (1997) 1259–1265].</dcterms:abstract>
+        <dc:title>An analytical study of the static state of multi-junctions in a multi-phase field model</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0167-2789">
+        <prism:volume>240</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Physica D: Nonlinear Phenomena</dc:title>
+        <dc:identifier>ISSN 0167-2789</dc:identifier>
+        <dcterms:alternative>Physica D: Nonlinear Phenomena</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.physd.2010.09.014</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_67">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/67/Guo et al. - 2011 - An analytical study of the static state of multi-j.pdf"/>
+        <dc:title>Guo et al. - 2011 - An analytical study of the static state of multi-j.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S092702561100615X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>67</prism:volume>
+                <dc:title>Computational Materials Science</dc:title>
+                <dc:identifier>ISSN 0927-0256</dc:identifier>
+                <dcterms:alternative>Computational Materials Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.commatsci.2011.10.043</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hao</foaf:surname>
+                        <foaf:givenname>S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_65"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Phase transformation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain boundary</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Coarsening</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dislocations</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Ginzburg–Landau theory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Interface</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Phase field</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S092702561100615X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>434-441</bib:pages>
+        <dc:date>February 1, 2013</dc:date>
+        <dcterms:abstract>A three-dimensional phase field model of anisotropic polycrystalline solids has been developed. In this model the system’s free energy is derived in a generalized form based on Ginzburg–Landau’s (GL) theory [1], which is a function of lattice’s parameters and electron density. A grain boundary in this model is viewed as a discontinuity of periodic atoms array, represented by the Read–Shockley dislocation representation [3]. The Peierls–Nabbaro’s dislocation potential [84] has been built into the model to characterize grain boundary’s adhesion. Therefore, the model establishes the links between lattice’s structure, sub-atomic quantum physics, and the evolutions of grains and grain-boundaries, leading to a meso-scopic constitutive law that governs grains’ nucleation, growth, and distortion in a polycrystalline system. This also provides a means to pursue analytical solutions of an alloy’s micro-structure’s evolution and establishes a framework for corresponding numerical analysis.</dcterms:abstract>
+        <dc:title>A phase-field model of anisotropic polycrystalline system and computer simulation – Part I: Theory</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/65/Hao - 2013 - A phase-field model of anisotropic polycrystalline.pdf"/>
+        <dc:title>Hao - 2013 - A phase-field model of anisotropic polycrystalline.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0927025617307401">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>145</prism:volume>
+                <dc:title>Computational Materials Science</dc:title>
+                <dc:identifier>ISSN 0927-0256</dc:identifier>
+                <dcterms:alternative>Computational Materials Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.commatsci.2017.12.057</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenname>Yaolin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Zhen</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenname>Qing</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenname>Cheng-Te</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenname>Shiyu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_66"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain boundary</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Phase field</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Abnormal grain growth</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Pores</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sintering</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>UO2</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0927025617307401</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>24-34</bib:pages>
+        <dc:date>April 1, 2018</dc:date>
+        <dcterms:abstract>The phase field formulation has been employed to investigate the abnormal grain growth behaviors for UO2 with pores in the final stage of sintering. The microstructure evolution is found dependent on the total volume fraction and individual sizes of pores. The grain growth rate is evidently suppressed when the porosity is high and it is found independent of pore size at low porosity. Moreover, the smaller pores may cause worse abnormal grain growth at low porosities and more significant stagnation effect at high porosities in the sintering of UO2. By further inspection on pore-boundary interaction in a bi-grain system designed in this work, the grain growth behavior is determined to be strongly correlated to the engulfment of pores by grains which may be described by the critical grain radius and critical time defined hereby. The data obtained may provide a new insight into the mechanism behind the sintering technology of nuclear fuels such as UO2.</dcterms:abstract>
+        <dc:title>Abnormal grain growth of UO2 with pores in the final stage of sintering: A phase field study</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_66">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/66/Guo et al. - 2018 - Abnormal grain growth of UO2 with pores in the fin.pdf"/>
+        <dc:title>Guo et al. - 2018 - Abnormal grain growth of UO2 with pores in the fin.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0927025615006576">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>112</prism:volume>
+                <dc:title>Computational Materials Science</dc:title>
+                <dc:identifier>ISSN 0927-0256</dc:identifier>
+                <dcterms:alternative>Computational Materials Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.commatsci.2015.10.010</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miyoshi</foaf:surname>
+                        <foaf:givenname>Eisuke</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Takaki</foaf:surname>
+                        <foaf:givenname>Tomohiro</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_75"/>
+        <dcterms:isReferencedBy rdf:resource="#item_77"/>
+        <dcterms:isReferencedBy rdf:resource="#item_76"/>
+        <link:link rdf:resource="#item_74"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain boundary</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Microstructural evolution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Triple junction</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Multi-phase field model</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0927025615006576</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>44-51</bib:pages>
+        <dc:date>February 1, 2016</dc:date>
+        <dc:description>Skimmed, Printed</dc:description>
+        <dcterms:abstract>The multi-phase-field (MPF) model proposed by Steinbach et al. has several advantages when it comes to numerically simulating the grain growth, recrystallization, and multiple phase transitions. In this study, in order to improve the accuracy of MPF simulations using the anisotropic grain-boundary energy and mobility, which depend strongly on the misorientation angles, we account for the triple-junction properties in the MPF model. Further, two-dimensional simulations of grain-boundary migrations in three-grain systems as well as simulations of abnormal grain growth in a polycrystalline system are performed using the proposed model, in order to confirm its validity. The results show that the proposed model allows for the introduction of the anisotropic energy and mobility with high accuracy for a wider range of misorientations, in contrast to the conventional model.</dcterms:abstract>
+        <dc:title>Validation of a novel higher-order multi-phase-field model for grain-growth simulations using anisotropic grain-boundary properties</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_75">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A higher-order PF model can work well in many cases, but does not work well in the case where high-energy GBs migrate to low-energy GBs.&lt;/li&gt;
+&lt;li&gt;Varied mobilities around a TJ lowers the accuracy of the model
+&lt;ul&gt;
+&lt;li&gt;Proposed resolution: introduce a TJ mobility term&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;This model accurately computes results for very low angle misorientations ( &amp;gt;= 3 degrees).&lt;/li&gt;
+&lt;li&gt;This model can simulate CSL boundaries with low energy and high mobility accurately.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_77">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;A PF simulation method that includes a higher order term for the additional free energy of triple junctions.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_76">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;It seems like the free energy functional they define does not include a bulk free energy term.  Is that valid?&lt;/p&gt;
+&lt;p&gt;They also mention that 'ghost phases' can form when there is strong GBE anisotropy - is this similar to what I saw when I first interned at INL?&lt;/p&gt;
+&lt;p&gt;They appear to calculate the angles at the TJ, but make no mention of how they calculate that, other than providing how to calculate the theoretical value.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 13-25, 38&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_74">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/74/Miyoshi and Takaki - 2016 - Validation of a novel higher-order multi-phase-fie.pdf"/>
+        <dc:title>Miyoshi and Takaki - 2016 - Validation of a novel higher-order multi-phase-fie.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1359645404002630">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>52</prism:volume>
+                <prism:number>13</prism:number>
+                <dc:title>Acta Materialia</dc:title>
+                <dc:identifier>ISSN 1359-6454</dc:identifier>
+                <dcterms:alternative>Acta Materialia</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.actamat.2004.05.001</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenname>N</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kazaryan</foaf:surname>
+                        <foaf:givenname>A</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dregia</foaf:surname>
+                        <foaf:givenname>S.A</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenname>Y</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_82"/>
+        <dcterms:isReferencedBy rdf:resource="#item_81"/>
+        <dcterms:isReferencedBy rdf:resource="#item_80"/>
+        <link:link rdf:resource="#item_79"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Anisotropy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Texture development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Parameter method</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1359645404002630</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>3869-3879</bib:pages>
+        <dc:date>August 2, 2004</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:abstract>We investigate orientation selection during grain growth by computer simulation in two-dimension using the phase-field method. The model characterizes misorientation in three-dimension with all three degrees of freedom. The systems considered consist of a single cube component embedded in a matrix of randomly oriented grains in the initial microstructure. The average grain size and size distribution are similar for both textured and randomly oriented grains. Starting from various fractions and spatial distributions of the cube component, we show that the effect of boundary energy anisotropy on texture development differs drastically from that of mobility anisotropy. In all cases the fraction of the cube component increases if boundary energy is anisotropic, and decreases if boundary mobility is anisotropic while energy is isotropic. Similar to previous studies, when boundary energy is anisotropic the misorientation distribution is no longer time-invariant and grain growth kinetics deviates from the behavior of isotropic grain growth. However, mobility anisotropy could also alter misorientation distribution and hence affect grain growth kinetics, which is different from the results obtained previously for systems of either random or single-component texture. The initial spatial distribution of the texture component plays an important role in determining the time-evolution of the misorientation distribution and hence affects the overall kinetics of texture evolution and grain growth. The simulation results are analyzed using Turbull's theory on grain growth. It is found that even though many individual factors affect texture evolution during grain growth, the key factor that really controls the process is the local grain boundary energy density.</dcterms:abstract>
+        <dc:title>Computer simulation of texture evolution during grain growth: effect of boundary properties and initial microstructure</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_82">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The key factor that controls texture evolution during grain growth is the local grain boundary energy density&lt;/li&gt;
+&lt;li&gt;Texture increases with GBE anisotropy, decreases with mobility anisotropy (and isotropic GBE).  When both are anisotropic, texture increases, but at a slower rate&lt;/li&gt;
+&lt;/ul&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_81">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;A better understanding of the individual and combined effects of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the number of texture components&lt;/li&gt;
+&lt;li&gt;the degree of texturing&lt;/li&gt;
+&lt;li&gt;initial volume fractions&lt;/li&gt;
+&lt;li&gt;grain sizes of different texture components&lt;/li&gt;
+&lt;li&gt;size distributions of different texture components&lt;/li&gt;
+&lt;li&gt;anisotropy in grain boundary energy&lt;/li&gt;
+&lt;li&gt;anisotropy in grain boundary mobility&lt;/li&gt;
+&lt;li&gt;the spatial distribution of the texture component&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;on texture evolution during grain growth, and identification of the key parameter (local grain boundary energy density) that control texture evolution.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_80">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;In their abstract, the define &quot;misorientation in 3D with all three degrees of freedom.&quot;  It isn't entirely clear if this is referring to &lt;em&gt;just&lt;/em&gt; the misorientation degrees of freedom (rotation axis and angle) or if it is a typo that is supposed to refer to the &lt;em&gt;five&lt;/em&gt; degrees of freedom of a grain boundary (including inclination).&lt;/p&gt;
+&lt;p&gt;The functional forms of the energy and mobility anisotropy assume low mobilities for low-energy boundaries - In my experience, this is generally not the case.&lt;/p&gt;
+&lt;p&gt;&quot;A key parameter that can be used as a general basis for analysis is the content of boundary energy density in a cluster of grains, gamma/d where gamma is the boundary energy and d is the average grain size in the cluster.&quot;&lt;/p&gt;
+&lt;p&gt;They emphasize that their &quot;main conclusion on the effect of boundary energy anisotropy in increasing texture is valid only for&quot; the microstructures they specifically studied, meaning that it is unclear how general their results are.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 17-21, 23, 25-29, 31-33, 36&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_79">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/79/Ma et al. - 2004 - Computer simulation of texture evolution during gr.pdf"/>
+        <dc:title>Ma et al. - 2004 - Computer simulation of texture evolution during gr.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S2211379718328675">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2211-3797"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenname>Kunok</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenname>Heebaek</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_85"/>
+        <dcterms:isReferencedBy rdf:resource="#item_86"/>
+        <dcterms:isReferencedBy rdf:resource="#item_87"/>
+        <link:link rdf:resource="#item_84"/>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Anisotropic grain growth</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Microstructure evolution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Bimodal grain growth</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S2211379718328675</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1262-1268</bib:pages>
+        <dc:date>March 1, 2019</dc:date>
+        <dc:description>Skimmed, Printed</dc:description>
+        <dcterms:abstract>Phase-field modeling of isotropic and anisotropic grain growth has been performed in 2D and 3D system. The multi order parameter grain growth model is adopted and OpenMP is implemented to enhance the computational efficiency. When the anisotropic grain growth phenomenon occurs, the misorientation distribution function of the low angle grain boundary is increased at the early stage and it converge to the certain value, 0.18 in 2D and 0.24 in 3D. The average numbers of faces of anisotropic grain growth is nearly same as the values of isotropic grain growth, which is 6.0 in 2D and 13.8 in 3D.</dcterms:abstract>
+        <dc:title>Effect of grain boundary energy anisotropy in 2D and 3D grain growth process</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2211-3797">
+        <prism:volume>12</prism:volume>
+        <dc:title>Results in Physics</dc:title>
+        <dc:identifier>ISSN 2211-3797</dc:identifier>
+        <dcterms:alternative>Results in Physics</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.rinp.2019.01.028</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_85">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;During anisotropic grain growth, the MDF of the low-angle GB is increased until it converges to 0.18 in 2D, and 0.24 in 3D.&lt;/p&gt;
+&lt;p&gt;The average number of faces of anisotropic grain growth is nearly the same as for isotropic grain growth (6 in 2D, 13.8 in 3D).&lt;/p&gt;
+&lt;p&gt;A bimodal grain size distribution can be developed by grain boundary energy anisotropy without any initial abnormalities&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_86">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;PF simulation of grain growth in the presence of GBE anisotropy.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_87">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;Several typos in this paper.&lt;/p&gt;
+&lt;p&gt;Their grain boundary energy function is dependent on the number of grains present in the system - unclear how general such results might be.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 10, 15, 30-31&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_84">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/84/Chang and Chang - 2019 - Effect of grain boundary energy anisotropy in 2D a.pdf"/>
+        <dc:title>Chang and Chang - 2019 - Effect of grain boundary energy anisotropy in 2D a.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0364591607000880">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0364-5916"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moelans</foaf:surname>
+                        <foaf:givenname>Nele</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blanpain</foaf:surname>
+                        <foaf:givenname>Bart</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wollants</foaf:surname>
+                        <foaf:givenname>Patrick</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_91"/>
+        <dcterms:isReferencedBy rdf:resource="#item_90"/>
+        <link:link rdf:resource="#item_89"/>
+        <dc:subject>Theoretical</dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Kinetics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Microstructure</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Nonequilibrium thermodynamics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Simulation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0364591607000880</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>268-294</bib:pages>
+        <dc:date>June 1, 2008</dc:date>
+        <dc:description>Skimmed, Printed</dc:description>
+        <dcterms:abstract>The phase-field method has become an important and extremely versatile technique for simulating microstructure evolution at the mesoscale. Thanks to the diffuse-interface approach, it allows us to study the evolution of arbitrary complex grain morphologies without any presumption on their shape or mutual distribution. It is also straightforward to account for different thermodynamic driving forces for microstructure evolution, such as bulk and interfacial energy, elastic energy and electric or magnetic energy, and the effect of different transport processes, such as mass diffusion, heat conduction and convection. The purpose of the paper is to give an introduction to the phase-field modeling technique. The concept of diffuse interfaces, the phase-field variables, the thermodynamic driving force for microstructure evolution and the kinetic phase-field equations are introduced. Furthermore, common techniques for parameter determination and numerical solution of the equations are discussed. To show the variety in phase-field models, different model formulations are exploited, depending on which is most common or most illustrative.</dcterms:abstract>
+        <dc:title>An introduction to phase-field modeling of microstructure evolution</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0364-5916">
+        <prism:volume>32</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Calphad</dc:title>
+        <dc:identifier>ISSN 0364-5916</dc:identifier>
+        <dcterms:alternative>Calphad</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.calphad.2007.11.003</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_91">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;&quot;An introduction to phase field method, and an overview of its possibilities.&quot;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_90">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;From the Acknowledgements section, this paper is based on Moelans' PhD thesis.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_89">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/89/Moelans et al. - 2008 - An introduction to phase-field modeling of microst.pdf"/>
+        <dc:title>Moelans et al. - 2008 - An introduction to phase-field modeling of microst.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.doi.org/10.1088/0965-0393/23/4/045009">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0965-0393"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tonks</foaf:surname>
+                        <foaf:givenname>Michael R</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenname>Yongfeng</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Butterfield</foaf:surname>
+                        <foaf:givenname>Aaron</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bai</foaf:surname>
+                        <foaf:givenname>Xian-Ming</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_95"/>
+        <dcterms:isReferencedBy rdf:resource="#item_97"/>
+        <dcterms:isReferencedBy rdf:resource="#item_96"/>
+        <link:link rdf:resource="#item_94"/>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>Grain boundary pinning</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dx.doi.org/10.1088/0965-0393/23/4/045009</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>045009</bib:pages>
+        <dc:date>April 23, 2015</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:abstract>In this work, we expand a grain boundary (GB) pinning model that considers a range of different spatial distributions of particles to also account for a distribution of particle sizes. We begin by developing a phase field model that describes GB and pore interactions and verify it by comparing to molecular dynamics simulations. We then develop an analytical pinning model that considers the impact of the particle size distribution, in terms of the mean and standard deviation of the particle radius. The analytical model is verified by comparing to simulation results of our phase field model and those of a simple Monte Carlo model. A significant finding from the model is that the mean value of the resistive pressure decreases with increasing standard deviation of the particle radius.</dcterms:abstract>
+        <dc:title>Development of a grain boundary pinning model that considers particle size distribution using the phase field method</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0965-0393">
+        <prism:volume>23</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Modelling and Simulation in Materials Science and Engineering</dc:title>
+        <dc:identifier>ISSN 0965-0393</dc:identifier>
+        <dcterms:alternative>Modelling and Simulation in Materials Science and Engineering</dcterms:alternative>
+        <dc:identifier>DOI 10.1088/0965-0393/23/4/045009</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_95">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;The mean value of the resistive pressure decreases with increasing standard deviation of the particle radius.&lt;/p&gt;
+&lt;p&gt;Previous works has not considered the impact of the particle size distribution, and thus has tended to over predict the resistive pressure, though not significantly if the ratio of the standard deviation to the mean particle radius was small.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_97">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;An grain boundary pinning model that takes into account the spatial distribution of the particles, as well as their size distribution.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_96">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;The maximum pinning force is the assigned value for each particle (so, we expect an overestimate of the number of pinned boundaries).&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 11, 22, 24, 26&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_94">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/94/Tonks et al. - 2015 - Development of a grain boundary pinning model that.pdf"/>
+        <dc:title>Tonks et al. - 2015 - Development of a grain boundary pinning model that.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0022311516300253">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>473</prism:volume>
+                <dc:title>Journal of Nuclear Materials</dc:title>
+                <dc:identifier>ISSN 0022-3115</dc:identifier>
+                <dcterms:alternative>Journal of Nuclear Materials</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jnucmat.2016.01.027</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mei</foaf:surname>
+                        <foaf:givenname>Zhi-Gang</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenname>Linyun</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenname>Yeon Soo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiencek</foaf:surname>
+                        <foaf:givenname>Tom</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Hare</foaf:surname>
+                        <foaf:givenname>Edward</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yacout</foaf:surname>
+                        <foaf:givenname>Abdellatif M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hofman</foaf:surname>
+                        <foaf:givenname>Gerard</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anitescu</foaf:surname>
+                        <foaf:givenname>Mihai</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_101"/>
+        <dcterms:isReferencedBy rdf:resource="#item_100"/>
+        <dcterms:isReferencedBy rdf:resource="#item_102"/>
+        <link:link rdf:resource="#item_99"/>
+        <dc:subject>Grain growth</dc:subject>
+        <dc:subject>U-Mo alloys</dc:subject>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>Molecular dynamics</dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0022311516300253</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>300-308</bib:pages>
+        <dc:date>May 1, 2016</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:abstract>Grain size is an important factor in controlling the swelling behavior in irradiated U–Mo dispersion fuels. Increasing the grain size in U–Mo fuel particles by heat treatment is believed to delay the fuel swelling at high fission density. In this work, a multiscale simulation approach combining first-principles calculation and phase field modeling is used to investigate the grain growth behavior in U–7Mo alloy. The density functional theory based first-principles calculations were used to predict the material properties of U–7Mo alloy. The obtained grain boundary energies were then adopted as an input parameter for mesoscale phase field simulations. The effects of annealing temperature, annealing time and initial grain structures of fuel particles on the grain growth in U–7Mo alloy were examined. The predicted grain growth rate compares well with the empirical correlation derived from experiments.</dcterms:abstract>
+        <dc:title>Grain growth in U–7Mo alloy: A combined first-principles and phase field study</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_101">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;Increasing the heating temperature is found to effectively reduce the annealing time requires for the desired grain size (Note: I feel like this is an obvious statement...)&lt;/p&gt;
+&lt;p&gt;In context of U-7Mo, polycrystals with a grain size distribution with more scatter evolved more quickly than those with identically sized grains (little to no scatter).&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_100">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Density functional theory and molecular dynamics simulations for calculating grain boundary properties, and phase field simulations to examine grain growth properties in U-7Mo&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_102">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 20, 28-29, 31-32, 40&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_99">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/99/Mei et al. - 2016 - Grain growth in U–7Mo alloy A combined first-prin.pdf"/>
+        <dc:title>Mei et al. - 2016 - Grain growth in U–7Mo alloy A combined first-prin.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1111/j.1151-2916.1998.tb02370.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0002-7820"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fan</foaf:surname>
+                        <foaf:givenname>Danan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenname>Long-Qing</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenname>Shao-Ping P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_106"/>
+        <dcterms:isReferencedBy rdf:resource="#item_107"/>
+        <dcterms:isReferencedBy rdf:resource="#item_108"/>
+        <link:link rdf:resource="#item_105"/>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>Zener pinning</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1111/j.1151-2916.1998.tb02370.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>526-532</bib:pages>
+        <dc:date>March 1, 1998</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:dateSubmitted>2019-07-31</dcterms:dateSubmitted>
+        <dcterms:abstract>The Zener pinning effect with growing second-phase particles in Al2O3-ZrO2 composite systems were studied by two-dimensional (2-D) computer simulations using a diffuse-interface field model. In these systems, all second-phase particles are distributed at grain corners and boundaries. The second-phase particles grow continuously, and the motion of grain boundaries of the matrix phase is pinned by the second-phase particles which coarsen through the Ostwald ripening mechanism, i.e., long-range diffusion. It is shown that both matrix grains and second-phase particles grow following the power-growth law, Rtm - R0m = kt with m = 3. It is found that the mean size of the matrix phase (D) depends linearly on the mean size of the second-phase particles (r) for all volume fractions of second phase from 10% to 40%, which agrees well with experimental results. It is shown that D/r is proportional to the volume fraction of the second phase (f) as f?1/2 for a volume fraction less than 30%, which agrees with Hillert and Srolovitz's predictions for 2-D systems, while experimental results from 2-D cross sections of three-dimensional (3-D) Al2O3-rich systems showed that either a f?1/2 or a f?1/3 relation might be possible. It is also found that D/r is not proportional to f?1/3 and f?1 in 2-D simulations, which suggests that the Zener pinning effect can be very different in 2-D and 3-D systems.</dcterms:abstract>
+        <dc:title>Numerical Simulation of Zener Pinning with Growing Second-Phase Particles</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0002-7820">
+        <prism:volume>81</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Journal of the American Ceramic Society</dc:title>
+        <dc:identifier>ISSN 0002-7820</dc:identifier>
+        <dcterms:alternative>Journal of the American Ceramic Society</dcterms:alternative>
+        <dc:identifier>DOI 10.1111/j.1151-2916.1998.tb02370.x</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_106">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;The pinning effect of growing second-phase particles is much strong than that in systems with small and noncoarsening particles.&lt;/p&gt;
+&lt;p&gt;The Zener pinning effect may depend on the dimensionality, volume fraction, and distribution of second-phase particles.&lt;/p&gt;
+&lt;p&gt;There is a linear relationship between D and r.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_107">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Examined the relationship between the ratio of the mean grain size of the matrix and the size of second-phase particles (D/r) and the volume fraction of a second phase in two-phase systems when the second-phase particles can coarsen.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_108">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;There have been many proposed relationships between D and r (see Eqs. 1-3)&lt;/p&gt;
+&lt;p&gt;This paper assumes isotropic grain and interphase boundaries.  Both phases are assumed to have the same diffusivity and grain boundary mobility.&lt;/p&gt;
+&lt;p&gt;They calculated a grain growth exponent of 3, compared to the typically expected 2.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 10-12&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_105">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/105/Fan et al. - 1998 - Numerical Simulation of Zener Pinning with Growing.pdf"/>
+        <dc:title>Fan et al. - 1998 - Numerical Simulation of Zener Pinning with Growing.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S135964621630625X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1359-6462"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miao</foaf:surname>
+                        <foaf:givenname>Yinbin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yao</foaf:surname>
+                        <foaf:givenname>Tiankai</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lian</foaf:surname>
+                        <foaf:givenname>Jie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenname>Jun-Sang</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Almer</foaf:surname>
+                        <foaf:givenname>Jonathan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhattacharya</foaf:surname>
+                        <foaf:givenname>Sumit</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yacout</foaf:surname>
+                        <foaf:givenname>Abdellatif M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mo</foaf:surname>
+                        <foaf:givenname>Kun</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_111"/>
+        <dcterms:isReferencedBy rdf:resource="#item_112"/>
+        <dcterms:isReferencedBy rdf:resource="#item_113"/>
+        <link:link rdf:resource="#item_110"/>
+        <link:link rdf:resource="#item_114"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Experimental</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Nanocrystalline materials</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Synchrotron radiation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>X-ray diffraction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>UO2</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S135964621630625X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>29-32</bib:pages>
+        <dc:date>April 1, 2017</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:abstract>The study of grain growth kinetics in nano-grained UO2 samples is reported. Dense nano-grained UO2 samples with well-controlled stoichiometry and grain size were fabricated using the spark plasma sintering technique. To determine the grain growth kinetics at elevated temperatures, a synchrotron wide-angle X-ray scattering (WAXS) study was performed in situ to measure the real-time grain size evolution based on the modified Williamson-Hall analysis. The unique grain growth kinetics of nanocrystalline UO2 at 730°C and 820°C were observed and explained by the difference in mobility of various grain boundaries.</dcterms:abstract>
+        <dc:title>In situ synchrotron investigation of grain growth behavior of nano-grained UO2</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1359-6462">
+        <prism:volume>131</prism:volume>
+        <dc:title>Scripta Materialia</dc:title>
+        <dc:identifier>ISSN 1359-6462</dc:identifier>
+        <dcterms:alternative>Scripta Materialia</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.scriptamat.2016.12.025</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_111">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;Grain growth kinetics of nano-grained UO&lt;sub&gt;2&lt;/sub&gt; are not comparable to those of conventional micro-grained UO&lt;sub&gt;2&lt;/sub&gt;.&lt;/p&gt;
+&lt;p&gt;Grain growth kinetics of nano-grained UO&lt;sub&gt;2&lt;/sub&gt; are explained by the mobility difference of various boundaries&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&quot;Each type of boundary has a characteristic temperature, T&lt;sub&gt;c&lt;/sub&gt;, at which the grain boundaries transition from low-mobility to high-mobility.  The characteristic temperatures can vary by a considerable amount due to the variation in activation energy of different types of grain boundaries.  Namely, at a specific temperature, T, only those grain boundaries with T&lt;sub&gt;c&lt;/sub&gt; &amp;lt; T have high mobility and therefore contribute effectively to grain growth.&quot;&lt;/li&gt;
+&lt;/ul&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_112">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Experimental analysis of grain growth in nanocrystalline UO&lt;sub&gt;2&lt;/sub&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_113">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;This paper cites other papers that indicate that nanocrystalline grain growth is different from micro-crystalline grain growth in both kinetics and mechanism.  Does this mean the results from MD simulation are not applicable beyond nanocrystalline growth?&lt;/p&gt;
+&lt;p&gt;Assumes a grain growth exponent of 2.5.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 4-6, 7-9, 23&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;See the attached &quot;Statements on the transition from high to low mobility based on temperature&quot; document for an in-depth analysis of the phenomenon based on previous research, starting from reference 23.&lt;/li&gt;
+&lt;/ul&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_110">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/110/Miao et al. - 2017 - In situ synchrotron investigation of grain growth .pdf"/>
+        <dc:title>Miao et al. - 2017 - In situ synchrotron investigation of grain growth .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_114">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/114/Statements on the transition from high to low mobility based on temperature.docx"/>
+        <dc:title>Statements on the transition from high to low mobility based on temperature.docx</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1111/jace.14780">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>100</prism:volume>
+                <prism:number>6</prism:number>
+                <dc:title>Journal of the American Ceramic Society</dc:title>
+                <dc:identifier>ISSN 0002-7820</dc:identifier>
+                <dcterms:alternative>Journal of the American Ceramic Society</dcterms:alternative>
+                <dc:identifier>DOI 10.1111/jace.14780</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yao</foaf:surname>
+                        <foaf:givenname>Tiankai</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mo</foaf:surname>
+                        <foaf:givenname>Kun</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yun</foaf:surname>
+                        <foaf:givenname>Di</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nanda</foaf:surname>
+                        <foaf:givenname>Sonal</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yacout</foaf:surname>
+                        <foaf:givenname>Abedellatif M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lian</foaf:surname>
+                        <foaf:givenname>Jie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_116"/>
+        <dcterms:isReferencedBy rdf:resource="#item_118"/>
+        <dcterms:isReferencedBy rdf:resource="#item_119"/>
+        <link:link rdf:resource="#item_117"/>
+        <dc:subject>Grain growth</dc:subject>
+        <dc:subject>Experimental</dc:subject>
+        <dc:subject>Pores</dc:subject>
+        <dc:subject>UO2</dc:subject>
+        <dc:subject>Stoichiometry</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1111/jace.14780</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>2651-2658</bib:pages>
+        <dc:date>June 1, 2017</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:dateSubmitted>2019-07-31</dcterms:dateSubmitted>
+        <dcterms:abstract>Abstract Dense nano-sized UO2+x pellets are synthesized by spark plasma sintering with controlled stoichiometries (UO2.03 and UO2.11) and grain sizes (~100 nm), and subsequently isothermally annealed to study their effects on grain growth kinetics and microstructure stability. The grain growth kinetics is determined and analyzed focusing on the interaction between grain boundary migration, pore growth, and coalescence. Grains grow much bigger in nano-sized UO2.11 than UO2.03 upon thermal annealing, consistent with the fact that hyper-stoichiometric UO2+x is beneficial for sintering due to enhanced U ion diffusion from excessive O ion interstitials. The activation energies of the grain growth for UO2.03 and UO2.11 are determined as ~1.0 and ~2.0 eV, respectively. As compared with the micrometer-sized UO2 in which volumetric diffusion dominates the grain coarsening with an activation energy of ~3.0 eV, the enhanced grain growth kinetics in nano-sized UO2+x suggests that grain boundary diffusion controls grain growth. The higher activation energy of more hyper-stoichiometric nano-sized UO2.11 may be attributed to the excessive O interstitials pinning grain boundary migration.</dcterms:abstract>
+        <dc:title>Grain growth and pore coarsening in dense nano-crystalline UO2+x fuel pellets</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_116">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;Grains grow much bigger in nano-sized UO&lt;sub&gt;2.11&lt;/sub&gt; than UO&lt;sub&gt;2.03&lt;/sub&gt; with thermal annealing&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;hyperstoichiometric UO&lt;sub&gt;2+x&lt;/sub&gt; is beneficial for sintering due to enhanced U ion diffusion from excessive O ion interstitials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Grain boundary diffusion is suggested to be the dominant mechanism for the greatly enhanced grain growth kinetics for the NC-UO&lt;sub&gt;2+x&lt;/sub&gt; pellets.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_118">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;Non-stoichiometric UO&lt;sub&gt;2+x&lt;/sub&gt; is experimentally studied to determine grain growth kinetics of nanocrystalline UO&lt;sub&gt;2+x&lt;/sub&gt;.&lt;/p&gt;
+&lt;p&gt;Provides experimental results for understanding the HBS in UO&lt;sub&gt;2&lt;/sub&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_119">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;Their data is fit twice - once to the grain growth equation (D&lt;sup&gt;n&lt;/sup&gt;-D&lt;sub&gt;0&lt;/sub&gt;&lt;sup&gt;n&lt;/sup&gt;) to determine the grain growth exponent (2 for UO&lt;sub&gt;2.11&lt;/sub&gt;, and 2.5 for UO&lt;sub&gt;2.03&lt;/sub&gt;), and then that fitted equation is used to determine the activation energy and time exponent.&lt;/p&gt;
+&lt;p&gt;Several different types of interstitials are created with hyperstoichiometric UO&lt;sub&gt;2&lt;/sub&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;mono-interstitials&lt;/li&gt;
+&lt;li&gt;di-interstitials&lt;/li&gt;
+&lt;li&gt;split di-interstitials&lt;/li&gt;
+&lt;li&gt;Willis defects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pores in near-stoichiometric UO&lt;sub&gt;2.03&lt;/sub&gt; are generally closed, while in hyperstoichiometric UO&lt;sub&gt;2.11&lt;/sub&gt; grow and coalesce.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 12, 17, 22-23, 25-28, 32&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_117">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/117/Yao et al. - 2017 - Grain growth and pore coarsening in dense nano-cry.pdf"/>
+        <dc:title>Yao et al. - 2017 - Grain growth and pore coarsening in dense nano-cry.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s10853-005-6502-7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>40</prism:volume>
+                <prism:number>4</prism:number>
+                <dc:title>Journal of Materials Science</dc:title>
+                <dc:identifier>ISSN 1573-4803</dc:identifier>
+                <dcterms:alternative>Journal of Materials Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1007/s10853-005-6502-7</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yoon</foaf:surname>
+                        <foaf:givenname>D. Y.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cho</foaf:surname>
+                        <foaf:givenname>Y. K.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_126"/>
+        <dcterms:isReferencedBy rdf:resource="#item_125"/>
+        <dcterms:isReferencedBy rdf:resource="#item_127"/>
+        <link:link rdf:resource="#item_124"/>
+        <dc:subject>Experimental</dc:subject>
+        <dc:subject>Theoretical</dc:subject>
+        <dc:subject>Free energy</dc:subject>
+        <dc:subject>Review</dc:subject>
+        <dc:subject>Grain boundary roughening transition</dc:subject>
+        <dc:subject>Liquid phase</dc:subject>
+        <dc:subject>Transition temperature</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s10853-005-6502-7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>861-870</bib:pages>
+        <dc:date>February 1, 2005</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:abstract>Extensive theoretical analysis and experimental observations show surface roughening transitions of crystals. The surface roughening is characterized by step free energy, which gradually decreases to 0 at the roughening transition temperature. For a crystal of finite size, the surface roughening transition is manifested by gradual increase of the curved edge and corner areas. In alloys, the interfaces between the solid and the liquid phases can be either singular, partially rough, or completely rough at different temperatures. Their thermally induced roughening transitions are similar to those of the solid-vapor interfaces. The interface roughening and the reverse transition to singular structures can also be induced by additives. The grain boundaries of any misorientation angles in oxides and metals also show roughening transitions. The singular grain boundaries have either flat, hill-and-valley, or kinked shapes, and with temperature increase or composition changes, they become defaceted to curved shapes. These defaceted grain boundaries are rough. It is thus possible to produce either singular or rough grain boundaries by heat-treatment or additives to vary their properties.</dcterms:abstract>
+        <dc:title>Roughening transition of grain boundaries in metals and oxides</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_126">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;Surface roughing transitions are manifested by gradual increases of the curved edge and corner areas.&lt;/p&gt;
+&lt;p&gt;Grain boundaries of any misorientation angles in oxides and metals show roughening transitions.  Singular grain boundaries have either flat, hill-and-valley, or kinked shapes, and with increasing temperature or composition changes become defaceted (rough boundaries).&lt;/p&gt;
+&lt;p&gt;The grain boundary roughing transition presents the possibility of altering the grain boundary properties by heat-treatment or additives without changing the grain orientations.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_125">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;A review of the grain boundary roughening transitions in metals and two oxides.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_127">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;Both abnormal and normal grain growth behaviors have been correlated with grain boundary roughening.&lt;/p&gt;
+&lt;p&gt;Grain boundary roughening can occur at temperatures well below the melting temperature of the material, and can occur due to composition changes.&lt;/p&gt;
+&lt;p&gt;In metals, the roughening temperature are above 0.7T&lt;sub&gt;m&lt;/sub&gt;. Some boundaries (e.g. twin boundaries) may not undergo a roughening transition.&lt;/p&gt;
+&lt;p&gt;Rough grain boundaries are expected to have nearly isotropic properties and structure with respect to misorientation and inclination.&lt;/p&gt;
+&lt;p&gt;Grain growth behavior in oxides is closely correlated to the grain boundary roughening transition&lt;/p&gt;
+&lt;p&gt;Abnormal grain growth seems to be associated with flat, hill-and-valley, or kinked grain boundaries, while curved (rough) boundaries were associated with normal grain growth.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 15-22, 29, 64-67, 91-97&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_124">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/124/Yoon and Cho - 2005 - Roughening transition of grain boundaries in metal.pdf"/>
+        <dc:title>Yoon and Cho - 2005 - Roughening transition of grain boundaries in metal.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="http://www.math.ias.edu/~lazar/von_Neumann_paper.pdf">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Metal Interfaces</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cleveland, OH</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>American Society for Metals</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>von Neumann</foaf:surname>
+                        <foaf:givenname>John</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_130"/>
+        <link:link rdf:resource="#item_129"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.math.ias.edu/~lazar/von_Neumann_paper.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>1952</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:dateSubmitted>2019-05-21</dcterms:dateSubmitted>
+        <dc:title>Discussion: Shape of Metal Grains</dc:title>
+        <z:numPages>2</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_130">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;In considering a bubble froth, changes in bubble volume are due to diffusion caused by the pressure difference between adjacent cells.&lt;/p&gt;
+&lt;p&gt;Hexagonal bubbles have constant gas content, bubbles with less than six sides lose gas, bubbles with more than six sides gain gas.&lt;/p&gt;
+&lt;p&gt;These results are valid in &lt;em&gt;only two dimensions&lt;/em&gt;&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_129">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/129/von Neumann - 1952 - Discussion Shape of Metal Grains.pdf"/>
+        <dc:title>von Neumann - 1952 - Discussion Shape of Metal Grains.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S092702561000025X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>48</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Computational Materials Science</dc:title>
+                <dc:identifier>ISSN 0927-0256</dc:identifier>
+                <dcterms:alternative>Computational Materials Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.commatsci.2010.01.007</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fjeldberg</foaf:surname>
+                        <foaf:givenname>Egil</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marthinsen</foaf:surname>
+                        <foaf:givenname>Knut</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_135"/>
+        <dcterms:isReferencedBy rdf:resource="#item_134"/>
+        <dcterms:isReferencedBy rdf:resource="#item_136"/>
+        <link:link rdf:resource="#item_133"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grain growth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>Anisotropy</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Grain size distribution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>Zener pinning</dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Potts Monte Carlo</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Recrystallisation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S092702561000025X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>267-281</bib:pages>
+        <dc:date>April 1, 2010</dc:date>
+        <dc:description>Studied, Printed</dc:description>
+        <dcterms:abstract>The present paper considers 3D grain size distributions and how they evolve during and after recrystallisation and grain growth as investigated by a 3D Potts Monte Carlo (MC) model. Two particular cases have been studied: (i) the effects of anisotropy in grain boundary energy and boundary mobility on grain size distributions after recrystallisation and (ii) the effects of second phase particles on the size distributions after both recrystallisation and grain growth. The present 3D MC simulations have shown that anisotropy has a strong effect on the size distributions of grains after recrystallisation, however, mainly in terms of a large and increasing fraction of small grains with increasing anisotropy. After “correcting” for the unrealistic large number of small grains, the differences between the different cases become quite small, but based on an evaluation of the skewness in these “corrected” grain size distributions, a small shift from a normal towards a log-normal-like distribution is still indicated. Concerning the effect of particles, simulations have shown that for an increasing volume fraction of particles, the coarsened microstructures show a clear shift from a Gaussian like towards a log-normal-like distribution. This behaviour is observed both for grain growth alone and for recrystallisation and subsequent coarsening.</dcterms:abstract>
+        <dc:title>A 3D Monte Carlo study of the effect of grain boundary anisotropy and particles on the size distribution of grains after recrystallisation and grain growth</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_135">
+        <rdf:value>&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;Anisotropy in grain boundary energy and mobility has a strong effect on the size distributions of grains after recrystallization - large and increasing fraction of small grains with increasing anisotropy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;After correcting, a shift towards a log-normal distribution is seen (compared to the normal distribution)&lt;/li&gt;
+&lt;li&gt;Variations in grain growth behavior due to anisotropy are localized, and do not affect the overall average kinetics behavior.&lt;/li&gt;
+&lt;li&gt;Temperature does not have a very strong effect on size distributions&lt;/li&gt;
+&lt;li&gt;System size also does not have a very strong effect&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When second phase particles are present, for an increasing volume fraction of particles, the coarsened microstructures show a clear shift from a Gaussian-like to a log-normal-like distribution.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_134">
+        <rdf:value>&lt;p&gt;Contribution&lt;/p&gt;
+&lt;p&gt;An analysis of the grain size distribution as dependent on anisotropy in both grain boundary energy and mobility, and (separately) as dependent on second phase particles of constant, equal size.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_136">
+        <rdf:value>&lt;p&gt;General Notes&lt;/p&gt;
+&lt;p&gt;Experimental works predict a log-normal grain size distribution, while simulations predict a more left-skewed distribution on a logarithmic scale.&lt;/p&gt;
+&lt;p&gt;For the Avrami exponent (time exponent for the grain growth equation), anisotropy through misorientation-dependent energy and mobility has no effect.&lt;/p&gt;
+&lt;p&gt;Recommended articles from references: 5-7, 17, 20, 24&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_133">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/133/Fjeldberg and Marthinsen - 2010 - A 3D Monte Carlo study of the effect of grain boun.pdf"/>
+        <dc:title>Fjeldberg and Marthinsen - 2010 - A 3D Monte Carlo study of the effect of grain boun.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s11661-010-0215-5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1543-1940"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rohrer</foaf:surname>
+                        <foaf:givenname>Gregory S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_141"/>
+        <dc:subject>Preface</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s11661-010-0215-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1063-1100</bib:pages>
+        <dc:date>May 1, 2010</dc:date>
+        <dc:description>Preface to actual paper</dc:description>
+        <dc:title>“Introduction to Grains, Phases, and Interfaces—an Interpretation of Microstructure,” Trans. AIME, 1948, vol. 175, pp. 15–51, by C.S. Smith</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1543-1940">
+        <prism:volume>41</prism:volume>
+        <prism:number>5</prism:number>
+        <dc:title>Metallurgical and Materials Transactions A</dc:title>
+        <dc:identifier>ISSN 1543-1940</dc:identifier>
+        <dcterms:alternative>Metallurgical and Materials Transactions A</dcterms:alternative>
+        <dc:identifier>DOI 10.1007/s11661-010-0215-5</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_141">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/141/Rohrer - 2010 - “Introduction to Grains, Phases, and Interfaces—an.pdf"/>
+        <dc:title>Rohrer - 2010 - “Introduction to Grains, Phases, and Interfaces—an.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_138">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>175</prism:volume>
+                <dc:title>Transactions of the American Institutetute of Mining, Metallurgical and Petroleum Engineers</dc:title>
+                <dcterms:alternative>Trans. AIME</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenname>Cyril Stanley</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_140"/>
+        <dc:subject>Grain boundary</dc:subject>
+        <dc:subject>Seminal paper</dc:subject>
+        <dc:subject>Phase boundary</dc:subject>
+        <bib:pages>15-51</bib:pages>
+        <dc:date>1948</dc:date>
+        <dc:description>Skimmed, Printed</dc:description>
+        <dc:title>Introduction to Grains, Phases, and Interfaces: An Interpretation of Microstructure</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_140">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/140/Smith - 1948 - Introduction to Grains, Phases, and Interfaces An.pdf"/>
+        <dc:title>Smith - 1948 - Introduction to Grains, Phases, and Interfaces An.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/09500839.2015.1031845">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0950-0839"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenname>Kunok</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moelans</foaf:surname>
+                        <foaf:givenname>Nele</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_154"/>
+        <dc:subject>Phase field</dc:subject>
+        <dc:subject>Zener pinning</dc:subject>
+        <dc:subject>Particle dissolution</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/09500839.2015.1031845</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>202-210</bib:pages>
+        <dc:date>April 3, 2015</dc:date>
+        <dc:title>Phase-field simulations of the interaction between a grain boundary and an evolving second-phase particle</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0950-0839">
+        <prism:volume>95</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Philosophical Magazine Letters</dc:title>
+        <dc:identifier>ISSN 0950-0839</dc:identifier>
+        <dcterms:alternative>Philosophical Magazine Letters</dcterms:alternative>
+        <dc:identifier>DOI 10.1080/09500839.2015.1031845</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_154">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/154/Chang and Moelans - 2015 - Phase-field simulations of the interaction between.pdf"/>
+        <dc:title>Chang and Moelans - 2015 - Phase-field simulations of the interaction between.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
